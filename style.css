@@ -19,7 +19,7 @@ body {
     --_c: #88c100;
     flex: calc(1.25 + var(--_s, 0));
     min-width: 0;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     height: var(--h);
     cursor: pointer;
